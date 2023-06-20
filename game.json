@@ -374,7 +374,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "when tile is dropped set link to true and set the x,y offset between the tile and the Linker object to the object",
+          "name": "when tile is dropped set link to true and set the x,y offset between the tile and the Linker variable to the object",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
